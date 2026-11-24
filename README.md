@@ -61,53 +61,6 @@
 <img src="https://skillicons.dev/icons?i=vscode,jupyter,mysql,linux,postman" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🧠 1. Brain Tumor Detection Using Deep Learning
-
-- Developed an MRI-based brain tumor classification system.
-- Used MobileNetV2 for image classification.
-- Classifies Glioma, Meningioma, Pituitary and No Tumor.
-- Integrated model predictions into an application.
-
-**Technologies:** Python, TensorFlow, Keras, MobileNetV2, Streamlit.
-
-### 🚌 2. Smart Bus Management System
-
-- Developed an ML-based public transportation analytics system.
-- Implemented demand forecasting and route optimization concepts.
-- Created an interactive Streamlit dashboard.
-- Focused on transportation efficiency, bus allocation and scheduling.
-- Presented research work at INCON-6, IMR Jalgaon.
-
-**Technologies:** Python, Machine Learning, Pandas, Streamlit, Data Visualization.
-
-🔗 [Live Project Demo](https://smart-bus-dashboard-pranavchopade.streamlit.app/)
-
-### 🤖 3. CodeLens AI – Context-Aware Code Reviewer
-
-- Built an intelligent code review application.
-- Implemented AST-based code analysis.
-- Integrated AI-powered code review capabilities.
-- Developed a React frontend and FastAPI backend.
-
-**Technologies:** Python, FastAPI, React, JavaScript, OpenAI API.
-
-### ☁️ 4. AWS Cloud Projects
-
-- Movie Booking System
-- Face Detection System
-- Story-to-Audio Converter
-- OTT Platform
-- Static Website Hosting
-- Cloud Automation and Serverless Applications
-
-**Technologies:** AWS EC2, S3, Lambda, API Gateway, DynamoDB, SNS, IAM, CloudWatch.
-
----
-
 ## 🏆 Achievements & Certifications
 
 - 🥇 Winner – MarvelX, Converges'26.
