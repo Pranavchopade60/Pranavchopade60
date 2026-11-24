@@ -61,17 +61,6 @@
 <img src="https://skillicons.dev/icons?i=vscode,jupyter,mysql,linux,postman" />
 </p>
 
-## 🏆 Achievements & Certifications
-
-- 🥇 Winner – MarvelX, Converges'26.
-- 📄 Research Paper Presenter – INCON-6, IMR Jalgaon.
-- 🥈 Second Place – Stranger Code, Converges'24.
-- 💡 Smart India Hackathon – 2024 & 2025 College Rounds.
-- ⚡ SUNHACK'25 – 36-Hour Hackathon.
-- 🏅 NPTEL – Natural Language Processing (Score: 72).
-- ☁️ AWS Cloud Learning and Hands-on Projects.
-- 🎓 Oracle, AWS and Infosys Springboard certifications.
-
 ---
 
 ## 📊 GitHub Statistics
